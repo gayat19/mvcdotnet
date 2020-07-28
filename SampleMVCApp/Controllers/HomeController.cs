@@ -15,7 +15,7 @@ namespace SampleMVCApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "G3's application";
 
             return View();
         }
